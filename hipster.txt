@@ -12,3 +12,5 @@
 
     You cannot notify a handler defined inside a dynamic include.
 
+
+The objective of this tutorial is to help you understand how to configure blue/green deployment of microservices running in Kubernetes with Istio. You don’t need to have any prerequisites to explore this scenario except a basic idea of deploying pods and services in Kubernetes. We will configure everything from Minikube to Istio to the sample application.
