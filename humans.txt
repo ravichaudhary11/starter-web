@@ -7,6 +7,7 @@
     john -- captain -- john@twitter
     suuny -- deol  --- sunny@twitter
 # THANKS
+    <aichi>
 
     <chichi>
     <terence>
