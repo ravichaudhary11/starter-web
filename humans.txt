@@ -5,9 +5,10 @@
 
     <name> -- <role> -- <twitter>
     john -- captain -- john@twitter
+    suuny -- deol  --- sunny@twitter
 # THANKS
 
-    <name>
+    <chichi>
 
 # TECHNOLOGY COLOPHON
 
